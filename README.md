@@ -1,2 +1,2 @@
 # Testando
- Primeiro repositório de teste de Git e GitHub
+ Primeiro repositório de teste
